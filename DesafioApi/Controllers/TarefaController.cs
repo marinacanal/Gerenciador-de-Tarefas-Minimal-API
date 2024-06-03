@@ -11,7 +11,6 @@ namespace DesafioApi.Controllers
     public class TarefaController : ControllerBase
     {
         private readonly OrganizadorContext _context;
-
         public TarefaController(OrganizadorContext context) => _context = context;
 
         [HttpPost("Criar")]
