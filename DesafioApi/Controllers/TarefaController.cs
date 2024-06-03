@@ -12,10 +12,7 @@ namespace DesafioApi.Controllers
     {
         private readonly OrganizadorContext _context;
 
-        public TarefaController(OrganizadorContext context)
-        {
-            _context = context;
-        }
+        public TarefaController(OrganizadorContext context) => _context = context;
 
         [HttpPost("Criar")]
         public IActionResult Criar(Tarefa tarefa)
