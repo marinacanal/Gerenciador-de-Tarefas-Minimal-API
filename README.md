@@ -1,6 +1,6 @@
-# CRUD Project
+# Task Manager API 
 
-This is a simple/basic project of a task manager, made to help me learn about how MVC is used in .net projects, and how .net API's work after all.
+This is a simple/basic CRUD project of a task manager, made to help me learn about how MVC is used in .net projects, and how .net API's work after all.
 I learned a lot, and I hope this helps somebody too.
 
 Swagger UI:  
