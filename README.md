@@ -1,7 +1,8 @@
-# Task Manager API 
+# Gerenciador de Tarefas API 
 
-This is a simple/basic CRUD project of a task manager, made to help me learn about how MVC is used in .net projects, and how .net API's work after all.
-I learned a lot, and I hope this helps somebody too.
+Como o nome sugere, esse projeto é uma API com um CRUD básico, que tem como objetivo geral gerenciar tarefas. 
+Eu desenvolvi essa API para praticar meus aprendizados sobre MVC e Minimalist API's com ASP.NET, e entender como a plataforma funciona. 
+
 
 Swagger UI:  
 
