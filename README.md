@@ -1,6 +1,6 @@
-# Gerenciador de Tarefas API 
+# Gerenciador de Tarefas Minimal API 
 
-Como o nome sugere, esse projeto é uma API com um CRUD básico, que tem como objetivo geral gerenciar tarefas. 
+Como o nome sugere, esse projeto é uma Minimal API com um CRUD básico, que tem como objetivo geral gerenciar tarefas. 
 Eu desenvolvi essa API para praticar meus aprendizados sobre MVC e Minimalist API's com ASP.NET, e entender como a plataforma funciona. 
 
 
